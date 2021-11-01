@@ -1,0 +1,27 @@
+ /* Neda Todorovic 0677/17  */
+.container{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 0% !important;
+    width: 100% !important;
+}
+
+.col-md-3, .col-md-2{
+    font-weight: bold;
+    display: flex;
+    margin-right: 0%;
+    justify-content: center;
+    align-items: center;
+}
+
+#iznos{
+    color:darkred;
+    text-align: center;
+}
+
+.row{
+    width: 100%  !important;
+    margin: 0%  !important;
+    padding: 0% !important;
+}

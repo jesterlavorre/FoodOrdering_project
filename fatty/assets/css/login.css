@@ -1,0 +1,11 @@
+ /* Neda Todorovic 0677/17  */
+.log{
+    width: 60%  !important;
+    padding: 3%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-top: 5%;
+}
+
+.btn{
+    margin-bottom: 3%;
+}
